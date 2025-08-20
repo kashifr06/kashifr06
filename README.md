@@ -9,10 +9,12 @@
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="assets/WhatsApp Image 2025-08-20 at 16.17.49_f4157468.jpg" alt="C Language" width="50" height="50" style="margin-right: 20px;"/> 
+<!-- C icon (non-clickable) -->
+  <img src="https://raw.githubusercontent.com/kashifr06/kashifr06/main/assets/c.png" alt="C Language" width="50" height="50" style="margin-right: 20px;"/>
 
 
-  <a href="https://code.visualstudio.com/" target="_blank">
+
+ <a href="https://code.visualstudio.com/" target="_blank">
     <img src="assets/vscode.png" alt="VS Code" width="50" height="50" style="margin-right: 20px;"/>
   </a>  
 
