@@ -6,13 +6,22 @@
 - 🌱 Currently exploring **C programming**  
 - 📝 Documenting my learning journey in [The-Ultimate-C-Handbook](https://github.com/kashifr06/The-Ultimate-C-Handbook)
 
-- ## 🛠️ Tech Stack
+## 🛠 Tech Stack  
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://github.com/kashifr06/kashifr06/blob/main/assets/c.png" alt="C" width="40" height="40"/>
+  <img src="https://github.com/kashifr06/kashifr06/blob/main/assets/vscode.png" alt="VS Code" width="40" height="40"/>
+  <a href="https://github.com/kashifr06" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 
-- ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/kashif.r06)
+## 🌐 Socials  
+
+<p align="left">
+  <a href="https://instagram.com/kashif.r06" target="_blank">
+    <img src="https://github.com/kashifr06/kashifr06/blob/main/assets/instagram.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
