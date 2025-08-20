@@ -2,7 +2,9 @@
 
 💻 I’m currently learning **C language with Harry**  
 
-## 🌸 About Me  
+## 👨‍💻 About Me
+
+- 🌍 From: Patna, Bihar, India    
 - 🌱 Currently exploring **C programming**  
 - 📄 Documenting my learning journey in [The-Ultimate-C-Handbook](https://github.com/kashifr06/The-Ultimate-C-Handbook)  
 - ---  
