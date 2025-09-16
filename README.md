@@ -4,7 +4,9 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 From: Patna, Bihar, India    
+- 🌍 From: Patna, Bihar, India
+- 🎓 B.Tech CSE @ Netaji Subhash Engineering College (NSEC)  
+- 🏷️ Batch: **2025–2029**      
 - 🌱 Currently exploring **C programming**  
 - 📄 Documenting my learning journey in [The-Ultimate-C-Handbook](https://github.com/kashifr06/The-Ultimate-C-Handbook)  
 - ---  
@@ -30,7 +32,10 @@
 ## 🌐 Socials  
 <p align="left">
   <a href="https://instagram.com/kashif.r06">
-    <img src="assets/WhatsApp Image 2025-08-20 at 16.19.14_b174d7c3.jpg" alt="Instagram" width="40" height="40"/>
+    <img src="assets/WhatsApp Image 2025-08-20 at 16.19.14_b174d7c3.jpg" alt="Instagram" width="40" height="40" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kashifr06/">
+    <img src="assets/linkedin1.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
