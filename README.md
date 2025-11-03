@@ -27,10 +27,7 @@
 ---
 
 ## 🌐 Socials  
-<p align="left">
-  <a href="https://instagram.com/kashif.r06">
-    <img src="assets/WhatsApp Image 2025-08-20 at 16.19.14_b174d7c3.jpg" alt="Instagram" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/kashifr06/">
     <img src="assets/linkedin1.png" alt="LinkedIn" width="40" height="40"/>
   </a>
