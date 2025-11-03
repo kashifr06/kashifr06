@@ -18,9 +18,6 @@
 
 
 
- <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="assets/vscode.png" alt="VS Code" width="50" height="50" style="margin-right: 20px;"/>
-  </a>  
 
   <a href="https://github.com/kashifr06">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
