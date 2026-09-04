@@ -7,8 +7,8 @@
 - 🌍 From: Patna, Bihar, India
 - 🎓 B.Tech CSE @ Netaji Subhash Engineering College (NSEC)  
 - 🏷️ Batch: **2025–2029**      
-- 🌱 Currently exploring **C programming**  
-- 📄 Documenting my learning journey in [The-Ultimate-C-Handbook](https://github.com/kashifr06/The-Ultimate-C-Handbook)  
+- 🌱 Currently exploring **DSA**  
+
 - ---  
 
 ## 🛠️ Tech Stack  
